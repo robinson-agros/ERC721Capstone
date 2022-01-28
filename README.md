@@ -94,6 +94,9 @@ to register your property, fill property id and click register:
 ## Contract ABI.
 Check contract-abis folder. ABIs contains address for local network previously deployed and for Rinkeby Network (Netword ID: 4)
 
+## Zokrates Code and Verifier.
+Check contracts/zokrates folder.
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
